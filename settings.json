@@ -1,5 +1,7 @@
 {
-  "enabledPlugins": {
-    "expo@claude-plugins-official": true
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
   }
 }
